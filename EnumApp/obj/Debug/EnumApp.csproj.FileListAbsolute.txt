@@ -1,0 +1,6 @@
+E:\Writting\TypeScript\WelcomToTypeScript\EnumApp\EnumApp\obj\Debug\EnumApp.csprojResolveAssemblyReference.cache
+E:\Writting\TypeScript\WelcomToTypeScript\EnumApp\EnumApp\bin\EnumApp.dll.config
+E:\Writting\TypeScript\WelcomToTypeScript\EnumApp\EnumApp\bin\EnumApp.dll
+E:\Writting\TypeScript\WelcomToTypeScript\EnumApp\EnumApp\bin\EnumApp.pdb
+E:\Writting\TypeScript\WelcomToTypeScript\EnumApp\EnumApp\obj\Debug\EnumApp.dll
+E:\Writting\TypeScript\WelcomToTypeScript\EnumApp\EnumApp\obj\Debug\EnumApp.pdb
